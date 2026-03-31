@@ -44,6 +44,42 @@
       "file": "Apna bana le.mid",
       "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/Apna%20bana%20le.mid",
       "youtube": "https://www.youtube.com/watch?v=your_video_link"
-    }
+    },
+    {
+      "id": 6,
+      "name": "Baarishein",
+      "artist": "Anuv Jain",
+      "movie": "a",
+      "file": "Baarishein.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/Baarishein.mid",
+      "youtube": "https://www.youtube.com/watch?v=your_video_link"
+    },
+    {
+      "id": 7,
+      "name": "Baarishon Mein",
+      "artist": "Darshan Raval",
+      "movie": "a",
+      "file": "Baarishon Mein.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/Baarishon%20Mein.mid",
+      "youtube": "https://www.youtube.com/watch?v=your_video_link"
+    },
+    {
+      "id": 8,
+      "name": "Bekhayali",
+      "artist": "Sachet Tandon",
+      "movie": "a",
+      "file": "Bekhayali (1).mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/Bekhayali%20(1).mid",
+      "youtube": "https://www.youtube.com/watch?v=your_video_link"
+    },
+    {
+      "id": 9,
+      "name": "Chal Wahan Jaate Hai",
+      "artist": "Arijit Singh",
+      "movie": "a",
+      "file": "Chal Wahan Jaate hai.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/Chal%20Wahan%20Jaate%20hai.mid",
+      "youtube": "https://www.youtube.com/watch?v=your_video_link"
+    },
   ]
 }
