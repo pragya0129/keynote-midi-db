@@ -80,6 +80,51 @@
       "file": "Chal Wahan Jaate hai.mid",
       "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/Chal%20Wahan%20Jaate%20hai.mid",
       "youtube": "https://www.youtube.com/watch?v=your_video_link"
+    },
+    {
+      "id": 10,
+      "name": "Chand Sifarish",
+      "artist": "Shaan",
+      "movie": "a",
+      "file": "Chand Sifarish.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/Chand%20Sifarish.mid",
+      "youtube": "https://www.youtube.com/watch?v=your_video_link"
+    },
+    {
+      "id": 11,
+      "name": "Channa Mereya",
+      "artist": "Arijit Singh",
+      "movie": "a",
+      "file": "Channa Mereya (1).mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/Channa%20Mereya%20(1).mid",
+      "youtube": "https://www.youtube.com/watch?v=your_video_link"
+    },
+    {
+      "id": 12,
+      "name": "Chupke Se Lag Ja Gale",
+      "artist": "",
+      "movie": "a",
+      "file": "Chupke Se Lag Ja Gale _Snehithane.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/Chupke%20Se%20Lag%20Ja%20Gale%20_Snehithane.mid",
+      "youtube": "https://www.youtube.com/watch?v=your_video_link"
+    },
+    {
+      "id": 13,
+      "name": "De Taali",
+      "artist": " Armaan Malik, Yo Yo Honey Singh",
+      "movie": "a",
+      "file": "De Taali.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/De%20Taali.mid",
+      "youtube": "https://www.youtube.com/watch?v=your_video_link"
+    },
+    {
+      "id": 14,
+      "name": "Dil Ko Tumse Pyaar Hua",
+      "artist": " Jalraj",
+      "movie": "a",
+      "file": "Dil ko tumse pyaar hua.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/Dil%20ko%20tumse%20pyaar%20hua.mid",
+      "youtube": "https://www.youtube.com/watch?v=your_video_link"
     }
   ]
 }
