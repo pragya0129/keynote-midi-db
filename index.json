@@ -489,7 +489,7 @@
     {
       "id": 60,
       "name": "Ami Je Tomar (Bhool Bhulaiyaa 2)",
-      "artist": "Arjijt Singh",
+      "artist": "Arijit Singh",
       "file": "ami je tomar.mid",
       "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/ami%20je%20tomar.mid",
       "youtube": ""
@@ -1529,7 +1529,7 @@
     {
       "id": 190,
       "name": "Spirits X Kabira",
-      "artist": "https://firebasestorage.googleapis.com/v0/b/keynote-midi.appspot.com/o/spirits%20x%20kabira.mid?alt=media&token=46d2dc0d-37dc-4d3e-a595-6af389c9beb5",
+      "artist": "",
       "file": "spirits x kabira.mid",
       "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/spirits%20x%20kabira.mid",
       "youtube": ""
@@ -2259,6 +2259,94 @@
       "artist": "Ali Sethi, Shae Gill",
       "file": "pasoori.mid",
       "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/pasoori.mid",
+      "youtube": ""
+    },
+    {
+      "id": 282,
+      "name": "Gulabi Aankhein Short Cover",
+      "artist": "",
+      "file": "gulabi aankhein new.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/gulabi%20aankhein%20new.mid",
+      "youtube": ""
+    },
+    {
+      "id": 283,
+      "name": "Tu Hain Toh Main Hoon",
+      "artist": "Arijit Singh",
+      "file": "tu hain toh main hoon.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/tu%20hain%20toh%20main%20hoon.mid",
+      "youtube": ""
+    },
+    {
+      "id": 284,
+      "name": "Bekhayali - Short Cover",
+      "artist": "Sachet Tandon",
+      "file": "bekhayali new.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/bekhayali%20new.mid",
+      "youtube": ""
+    },
+    {
+      "id": 285,
+      "name": "Ehsaas",
+      "artist": "Faheem Abdullah, Duha Shah",
+      "file": "ehsaas.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/ehsaas.mid",
+      "youtube": ""
+    },
+    {
+      "id": 286,
+      "name": "Channa Mereya Short Cover",
+      "artist": "Arijit Singh",
+      "file": "channa mereya short.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/channa%20mereya%20short.mid",
+      "youtube": ""
+    },
+    {
+      "id": 287,
+      "name": "Saathiya",
+      "artist": "Darshan Raval",
+      "file": "saathiyaa.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/saathiyaa.mid",
+      "youtube": ""
+    },
+    {
+      "id": 288,
+      "name": "Ishq Bulaava",
+      "artist": "Sanam Puri",
+      "file": "ishq bulaava.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/ishq%20bulaava.mid",
+      "youtube": ""
+    },
+    {
+      "id": 289,
+      "name": "Raina",
+      "artist": "Arijit Singh",
+      "file": "raina.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/raina.mid",
+      "youtube": ""
+    },
+    {
+      "id": 290,
+      "name": "Kaun Tujhe",
+      "artist": "Palak Muchhal",
+      "file": "kaun tujhe.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/kaun%20tujhe.mid",
+      "youtube": ""
+    },
+    {
+      "id": 291,
+      "name": "Sitaare",
+      "artist": "Arijit Singh",
+      "file": "sitaare.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/sitaare.mid",
+      "youtube": ""
+    },
+    {
+      "id": 292,
+      "name": "Aashiqui - The Love Theme",
+      "artist": "",
+      "file": "aashiqui 2 theme.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/aashiqui%202%20theme.mid",
       "youtube": ""
     }
   ]
