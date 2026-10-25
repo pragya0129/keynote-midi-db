@@ -2468,6 +2468,22 @@
       "file": "kaho_toh.mid",
       "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/kaho_toh.mid",
       "youtube": ""
+    },
+    {
+      "id": 308,
+      "name": "Kalyani X O Re Piya",
+      "artist": "Shreya Ghoshal, Rahat Fateh Ali Khan",
+      "file": "kalyani_o_re_piya.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/kalyani_o_re_piya.mid",
+      "youtube": ""
+    },
+    {
+      "id": 309,
+      "name": "Sirf Tum",
+      "artist": "Darshan Raval",
+      "file": "sirf_tum.mid",
+      "url": "https://raw.githubusercontent.com/pragya0129/keynote-midi-db/main/midi/sirf_tum.mid",
+      "youtube": ""
     }
   ]
 }
